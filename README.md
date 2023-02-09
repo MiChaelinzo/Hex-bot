@@ -1,2 +1,8 @@
 # Hex-bot
-The repository you provided appears to contain a simple random bot, which randomly selects a move on the board. To create a more competitive bot, you could implement a more sophisticated strategy, such as minimax with alpha-beta pruning.
+A Hex bot can be created using various strategies, such as minimax, Monte Carlo tree search, or neural networks. The repository you provided appears to contain a simple random bot, which randomly selects a move on the board. To create a more competitive bot, you could implement a more sophisticated strategy, such as minimax with alpha-beta pruning.
+
+Minimax is a decision-making algorithm that recursively evaluates all possible game states to determine the best move. It uses the principle of maximizing the player's score while minimizing the opponent's score. Alpha-beta pruning is an optimization technique that helps speed up the minimax algorithm by discarding branches of the game tree that are not relevant to the final decision. 
+
+Note that you'll need to define the game_over, evaluate, possible_moves, MAX, MIN, and EMPTY functions to make this code work. The game_over function should return True if the game has ended, False otherwise. The evaluate function should return a score for the given board state, where a positive score is favorable for the player and a negative score is favorable for the opponent. The possible_moves function should return a list of all valid moves for the current player. MAX and MIN should be constants that represent the two players, and EMPTY should represent an empty cell on the board.
+
+
