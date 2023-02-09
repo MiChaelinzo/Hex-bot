@@ -9,6 +9,7 @@ Minimax is a decision-making algorithm that recursively evaluates all possible g
 
 - Note that the implementation of the game_over, basic_eval, and possible_moves functions will depend on the specific game you are playing, and will need to be adjusted accordingly.
 
+![DALL·E 2023-02-09 11 06 46 - hex bot ](https://user-images.githubusercontent.com/68110223/217753297-400520cd-0b71-4dd6-bbe5-00bd66ca4dcc.png)
 
 
 
