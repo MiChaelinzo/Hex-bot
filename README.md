@@ -13,3 +13,4 @@ Minimax is a decision-making algorithm that recursively evaluates all possible g
 
 
 
+![a1f6ae96-3ce1-4af1-a91a-3254317eec72](https://user-images.githubusercontent.com/68110223/218071451-dd4ec178-23bb-4772-a2a4-c89c25281bb9.png)
