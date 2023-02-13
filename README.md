@@ -1,5 +1,5 @@
 # Hex-bot
-A Hex bot can be created using various strategies, such as minimax, Monte Carlo tree search, or neural networks. The repository you provided appears to contain a simple random bot, which randomly selects a move on the board. To create a more competitive bot, you could implement a more sophisticated strategy, such as minimax with alpha-beta pruning.
+This project involves the creation of a computer program that plays the game of Hex, a two-player strategy game where the goal is to connect opposite sides of a hexagonal board. The Hex bot was built using the minimax algorithm with alpha-beta pruning and an evaluation function that assigns a score to each board state. The result is a strong AI player that can effectively compete and beat human players, demonstrating the bot's ability to make intelligent decisions and strategy. This project provides a valuable learning experience in game AI, Python programming, and problem-solving.
 
 Minimax is a decision-making algorithm that recursively evaluates all possible game states to determine the best move. It uses the principle of maximizing the player's score while minimizing the opponent's score. Alpha-beta pruning is an optimization technique that helps speed up the minimax algorithm by discarding branches of the game tree that are not relevant to the final decision. 
 
